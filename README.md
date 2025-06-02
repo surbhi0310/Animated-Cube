@@ -1,1 +1,1 @@
-# Animated-Cube
+# 3D-Cube
